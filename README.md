@@ -12,19 +12,19 @@
 </div>
 
 ## Exercises
-- [X] [A Jogo dos Copos](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053)
-- [ ] [B Magic and Sword](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632)
-- [ ] [C Presentes de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089)
-- [X] [D Navegador Web](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635)
-- [ ] [E Problema do 7 x 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099)
-- [ ] [F Demogorgon KRIS](https://www.urionlinejudge.com.br/judge/pt/problems/view/2532)
-- [ ] [G O Rolê Bad Vibes](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958)
-- [ ] [H Pirâmide AKIRA](https://www.urionlinejudge.com.br/judge/pt/problems/view/2873)
-- [ ] [I Ih, Ferrou, um Buraco Negro!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1783)
-- [ ] [J O Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954)
-- [ ] [K Ajude Nhonho](https://www.urionlinejudge.com.br/judge/pt/problems/view/1919)
-- [ ] [L Brainfuck](https://www.urionlinejudge.com.br/judge/pt/problems/view/1456)
-- [ ] [M Maratona Brasileira de Comedores de Pipocas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973)
+- [X] [A - Jogo dos Copos](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053)
+- [ ] [B - Magic and Sword](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632)
+- [ ] [C - Presentes de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089)
+- [X] [D - Navegador Web](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635)
+- [ ] [E - Problema do 7 x 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099)
+- [ ] [F - Demogorgon](https://www.urionlinejudge.com.br/judge/pt/problems/view/2532)
+- [ ] [G - O Rolê Bad Vibes](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958)
+- [ ] [H - Pirâmide](https://www.urionlinejudge.com.br/judge/pt/problems/view/2873)
+- [ ] [I - Ih, Ferrou, um Buraco Negro!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1783)
+- [ ] [J - O Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954)
+- [ ] [K - Ajude o Nhonho](https://www.urionlinejudge.com.br/judge/pt/problems/view/1919)
+- [ ] [L - Brainfuck](https://www.urionlinejudge.com.br/judge/pt/problems/view/1456)
+- [ ] [M - Maratona Brasileira de Comedores de Pipocas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973)
 - [ ] [N Recuperação de Arquivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1335)
 
 ## Team
