@@ -1,13 +1,14 @@
 numberMovements = int(input())
-cupStart = input().upper()
-end = 0
+cupInitial = input().upper()
+
 cups = [False, False, False]
-copos = 'ABC'
-cups[copos.find(cupStart)] = True
+nameCups = 'ABC'
+cups[nameCups.find(cupInitial)] = True
+
+end = 0
 
 while end < numberMovements:
     move = int(input())
-    end += 1
     if(move == 1):
         temp = cups[0]
         cups[0] = cups[1]
@@ -23,4 +24,6 @@ while end < numberMovements:
         cups[0] = cups[2]
         cups[2] = temp
 
-print(copos[cups.index(True)])
+    end += 1
+
+print(nameCups[cups.index(True)])
