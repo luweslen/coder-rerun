@@ -34,6 +34,6 @@
   <tr>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/36383027?s=460&u=2e0cdddc69506a39374f4d360e17ab1a3a385223&v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/AkiraDemenech" title="Akira">Guilherme Akira D. Mori</a></b></sub><br/>UEL</td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/36344130?s=460&u=8f38afb60832d4576570ab1672894ac935e65db6&v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/lucianoweslen11" title="Luciano">Luciano W. da Silva</a></b></sub><br/>IFPR</td>
-    <td align="center"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHqBj2WYUt79A/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=4apY0OhuhzrfkoBKm9otKRExgQuUZalkwt9y__rjgII" width="100px;" alt=""/><br /><sub><b><a href="https://www.linkedin.com/in/kristiano-pasini-10997419a/" title="Kris">Kristiano Pasini de Oliveira</a></b></sub><br />UEL</td>
+    <td align="center"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHqBj2WYUt79A/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=4apY0OhuhzrfkoBKm9otKRExgQuUZalkwt9y__rjgII" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/kristianok/" title="Kris">Kristiano Pasini de Oliveira</a></b></sub><br />UEL</td>
   </tr>
 </table>
